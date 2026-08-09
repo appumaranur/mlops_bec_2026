@@ -1,4 +1,5 @@
 [core]
     remote = myremote
+    autostage = true
 ['remote "myremote"']
     url = s3://mlops-workshop-appaji-bec-2026/dvc-store
